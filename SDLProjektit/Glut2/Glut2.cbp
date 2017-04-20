@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Glut2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\Glut2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\Glut2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="include" />
+			<Add directory="..\Glut2" />
+		</Compiler>
+		<Linker>
+			<Add library="..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\libopengl32.a" />
+			<Add library="..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\libglu32.a" />
+			<Add library="..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\glut32.lib" />
+			<Add library="..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\libgdi32.a" />
+		</Linker>
+		<Unit filename="apu\Bmp_image.cpp" />
+		<Unit filename="apu\Bmp_image.h" />
+		<Unit filename="apu\OBJStruckture.h" />
+		<Unit filename="apu\bmp_loader.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="apu\bmp_loader.h" />
+		<Unit filename="apu\cList.cpp" />
+		<Unit filename="apu\cList.h" />
+		<Unit filename="apu\cObjLoader.cpp" />
+		<Unit filename="apu\cObjLoader.h" />
+		<Unit filename="apu\helpFunctions.cpp" />
+		<Unit filename="apu\helpFunctions.h" />
+		<Unit filename="bmp.h" />
+		<Unit filename="include\CRender.h" />
+		<Unit filename="include\InterfaceInportHandler.h" />
+		<Unit filename="include\cCamera.h" />
+		<Unit filename="include\cGameEngine.h" />
+		<Unit filename="include\cKeyboard.h" />
+		<Unit filename="include\cMouse.h" />
+		<Unit filename="include\cSkybox.h" />
+		<Unit filename="include\cTerrain.h" />
+		<Unit filename="include\cTimer.h" />
+		<Unit filename="include\cVector3f.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="objReader.cpp" />
+		<Unit filename="src\CRender.cpp" />
+		<Unit filename="src\cCamera.cpp" />
+		<Unit filename="src\cGameEngine.cpp" />
+		<Unit filename="src\cKeyboard.cpp" />
+		<Unit filename="src\cMouse.cpp" />
+		<Unit filename="src\cSkybox.cpp" />
+		<Unit filename="src\cTerrain.cpp" />
+		<Unit filename="src\cTimer.cpp" />
+		<Unit filename="src\cVector3f.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

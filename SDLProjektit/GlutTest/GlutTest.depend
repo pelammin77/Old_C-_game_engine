@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1303752597 source:c:\openglprojektit\sdlprojektit\gluttest\main.c
+
+1303752916 source:c:\openglprojektit\sdlprojektit\gluttest\main.cpp
+	<iostream>
+	<GL/glut.h>
+

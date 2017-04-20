@@ -1,0 +1,162 @@
+# depslib dependency file v1.0
+1315005298 source:c:\openglprojektit\sdlprojektit\glut2\main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<string.h>
+	"cGameEngine.h"
+	"cKeyboard.h"
+	"cMouse.h"
+
+1309380895 source:c:\openglprojektit\sdlprojektit\glut2\src\cmouse.cpp
+	"cMouse.h"
+
+1309551197 c:\openglprojektit\sdlprojektit\glut2\include\cmouse.h
+	<GL/glut.h>
+	"cKeyboard.h"
+
+1309386918 source:c:\openglprojektit\sdlprojektit\glut2\src\ckeyboard.cpp
+	"cKeyboard.h"
+
+1309550407 c:\openglprojektit\sdlprojektit\glut2\include\ckeyboard.h
+	<stdlib.h>
+	<string.h>
+	"InterfaceInportHandler.h"
+
+1309126222 c:\openglprojektit\sdlprojektit\glut2\include\interfaceinporthandler.h
+
+1318773410 source:c:\openglprojektit\sdlprojektit\glut2\src\cgameengine.cpp
+	"cGameEngine.h"
+	<GL/glut.h>
+	<math.h>
+
+1312399792 c:\openglprojektit\sdlprojektit\glut2\include\cgameengine.h
+	"InterfaceInportHandler.h"
+	"cCamera.h"
+	"cTimer.h"
+	"cKeyboard.h"
+	"cMouse.h"
+	"CRender.h"
+
+1312450916 source:c:\openglprojektit\sdlprojektit\glut2\src\ccamera.cpp
+	"cCamera.h"
+
+1312450698 c:\openglprojektit\sdlprojektit\glut2\include\ccamera.h
+
+1309198068 source:c:\openglprojektit\sdlprojektit\glut2\src\ctimer.cpp
+	<GL/glut.h>
+	"cTimer.h"
+
+1309197943 c:\openglprojektit\sdlprojektit\glut2\include\ctimer.h
+
+1319284261 source:c:\openglprojektit\sdlprojektit\glut2\src\crender.cpp
+	"CRender.h"
+	<gl/glut.h>
+	"apu/helpFunctions.h"
+	"apu/Bmp_image.h"
+	"cVector3f.h"
+
+1316986882 c:\openglprojektit\sdlprojektit\glut2\include\crender.h
+	"apu/Bmp_image.h"
+	<GL/glut.h>
+	"cTerrain.h"
+
+1314971524 c:\openglprojektit\sdlprojektit\glut2\apu\helpfunctions.h
+	<windows.h>
+	<math.h>
+	<stdio.h>
+	"bmp.h"
+
+1314971524 source:c:\openglprojektit\sdlprojektit\glut2\apu\helpfunctions.cpp
+	"helpFunctions.h"
+
+1312455808 source:c:\openglprojektit\sdlprojektit\glut2\bmp.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	"BMP.h"
+
+1312454859 c:\openglprojektit\sdlprojektit\glut2\bmp.h
+
+1313680527 source:c:\openglprojektit\sdlprojektit\glut2\objreader.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1314308492 source:c:\openglprojektit\sdlprojektit\glut2\apu\clist.cpp
+	"cList.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1314995612 c:\openglprojektit\sdlprojektit\glut2\apu\clist.h
+
+1315000407 source:c:\openglprojektit\sdlprojektit\glut2\apu\cobjloader.cpp
+	"cObjLoader.h"
+	<string.h>
+	<string>
+	"apu/helpFunctions.h"
+
+1314999272 c:\openglprojektit\sdlprojektit\glut2\apu\cobjloader.h
+	<stdio.h>
+	"OBJStruckture.h"
+
+1314830356 c:\openglprojektit\sdlprojektit\glut2\apu\objstruckture.h
+	<iostream>
+	<list>
+	"cList.h"
+	<algorithm>
+
+1210230410 c:\openglprojektit\sdlprojektit\glut2\apu\glm\glm.h
+	<GL/glut.h>
+
+1319284187 source:c:\openglprojektit\sdlprojektit\glut2\apu\bmp_image.cpp
+	"Bmp_image.h"
+	<fstream>
+	<assert.h>
+
+1318771842 c:\openglprojektit\sdlprojektit\glut2\apu\bmp_image.h
+	<fstream>
+
+1316269291 source:c:\openglprojektit\sdlprojektit\glut2\apu\cvector3f.cpp
+	"cVector3f.h"
+	<math.h>
+
+1316005422 c:\openglprojektit\sdlprojektit\glut2\apu\cvector3f.h
+	<iostream>
+
+1317568677 source:c:\openglprojektit\sdlprojektit\glut2\src\cterrain.cpp
+	"cTerrain.h"
+
+1317568677 c:\openglprojektit\sdlprojektit\glut2\include\cterrain.h
+	"cVector3f.h"
+
+1316272371 source:c:\openglprojektit\sdlprojektit\glut2\src\cvector3f.cpp
+	"cVector3f.h"
+	<math.h>
+
+1316272206 c:\openglprojektit\sdlprojektit\glut2\include\cvector3f.h
+	<iostream>
+
+1316980154 source:c:\openglprojektit\sdlprojektit\glut2\src\cskybox.cpp
+	"cSkybox.h"
+
+1316980019 c:\openglprojektit\sdlprojektit\glut2\include\cskybox.h
+	<gl/gl.h>
+
+1317567729 source:c:\openglprojektit\sdlprojektit\glut2\src\cbitmap.cpp
+	"cBitmap.h"
+
+1317567729 c:\openglprojektit\sdlprojektit\glut2\include\cbitmap.h
+	<windows.h>
+	<stdio.h>
+
+1319149961 source:c:\openglprojektit\sdlprojektit\glut2\apu\bmp_loader.c
+	"bmp_loader.h"
+
+1318797843 c:\openglprojektit\sdlprojektit\glut2\apu\bmp_loader.h
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

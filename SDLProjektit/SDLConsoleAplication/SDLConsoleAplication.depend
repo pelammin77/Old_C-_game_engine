@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1303305167 source:c:\openglprojektit\sdlprojektit\sdlconsoleaplication\main.cpp
+	"include/cGame_Engine.h"
+	<SDL/SDL_mixer.h>
+
+1303153697 source:c:\openglprojektit\sdlprojektit\sdlconsoleaplication\src\cgame_engine.cpp
+	"cGame_Engine.h"
+
+1304892320 c:\openglprojektit\sdlprojektit\sdlconsoleaplication\include\cgame_engine.h
+	<SDL\SDL.h>
+	<SDL\SDL_image.h>
+	<SDL/SDL_rotozoom.h>
+	<String>
+

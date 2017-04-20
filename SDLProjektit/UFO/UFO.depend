@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1303757568 source:c:\openglprojektit\sdlprojektit\ufo\main.cpp
+	<iostream>
+	<SDL/SDL.h>
+	"cUfo.h"
+	"cGame.h"
+
+1303759585 source:c:\openglprojektit\sdlprojektit\ufo\src\cufo.cpp
+	"cUfo.h"
+
+1303498092 c:\openglprojektit\sdlprojektit\ufo\include\cufo.h
+	<CBase_Sprite.h>
+
+1304894277 source:c:\openglprojektit\sdlprojektit\ufo\src\cgame.cpp
+	"cGame.h"
+
+1304892106 c:\openglprojektit\sdlprojektit\ufo\include\cgame.h
+	<SDL/SDL.h>
+	<SDL/SDL_Image.h>
+	"cScope.h"
+	"cUfo.h"
+	<iostream>
+
+1303760233 source:c:\openglprojektit\sdlprojektit\ufo\src\cbase_sprite.cpp
+	"CBase_Sprite.h"
+
+1303514575 c:\openglprojektit\sdlprojektit\ufo\include\cbase_sprite.h
+	<iostream>
+	<SDL\SDL.h>
+	<SDL\SDL_image.h>
+
+1303503180 c:\openglprojektit\sdlprojektit\ufo\include\cscope.h
+	"CBase_Sprite.h"
+
+1303759737 source:c:\openglprojektit\sdlprojektit\ufo\src\cscope.cpp
+	"cScope.h"
+

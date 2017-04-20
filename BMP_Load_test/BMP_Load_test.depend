@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1317065476 source:c:\opengl\bmp_load_test\src\cbitmap.cpp
+	"cBitmap.h"
+
+1317059770 c:\opengl\bmp_load_test\include\cbitmap.h
+	<windows.h>
+	<stdio.h>
+
+1317065887 source:c:\opengl\bmp_load_test\main.cpp
+	<iostream>
+	"cBitmap.h"
+
+1317065478 source:c:\openglprojektit\bmp_load_test\src\cbitmap.cpp
+	"cBitmap.h"
+
+1317059772 c:\openglprojektit\bmp_load_test\include\cbitmap.h
+	<windows.h>
+	<stdio.h>
+
+1317065888 source:c:\openglprojektit\bmp_load_test\main.cpp
+	<iostream>
+	"cBitmap.h"
+

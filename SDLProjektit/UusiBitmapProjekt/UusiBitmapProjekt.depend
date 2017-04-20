@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1317747863 source:c:\openglprojektit\sdlprojektit\uusibitmapprojekt\src\cbitmapfile.cpp
+	"cBitmapFile.h"
+
+1318082094 c:\openglprojektit\sdlprojektit\uusibitmapprojekt\include\cbitmapfile.h
+	<stdio.h>
+	<gl\GL.h>
+
+1317748149 source:c:\openglprojektit\sdlprojektit\uusibitmapprojekt\main.cpp
+	<iostream>
+	"cBitmapFile.h"
+

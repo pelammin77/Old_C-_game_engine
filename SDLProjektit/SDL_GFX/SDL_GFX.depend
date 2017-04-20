@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1284088284 source:c:\sdl_gfx-2.0.22\sdl_gfxprimitives.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"SDL_gfxPrimitives.h"
+	"SDL_rotozoom.h"
+	"SDL_gfxPrimitives_font.h"
+	<emmintrin.h>
+
+1284005874 c:\sdl_gfx-2.0.22\sdl_gfxprimitives.h
+	<math.h>
+	"SDL.h"
+
+1282018736 c:\sdl_gfx-2.0.22\sdl_rotozoom.h
+	<math.h>
+	"SDL.h"
+
+1265498482 c:\sdl_gfx-2.0.22\sdl_gfxprimitives_font.h
+
+1271604708 source:c:\sdl_gfx-2.0.22\sdl_imagefilter.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"SDL_imageFilter.h"
+
+1282018736 c:\sdl_gfx-2.0.22\sdl_imagefilter.h
+
+1281906410 source:c:\sdl_gfx-2.0.22\sdl_rotozoom.c
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	"SDL_rotozoom.h"
+
+1274417502 source:c:\sdl_gfx-2.0.22\sdl_gfxblitfunc.c
+	"SDL_gfxBlitFunc.h"
+
+1282018736 c:\sdl_gfx-2.0.22\sdl_gfxblitfunc.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_video.h>
+
